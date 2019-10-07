@@ -4,5 +4,5 @@
 VCS adalah ...
 
 ### Langkah-langkah menggunakan git.
-1. Buat repository dengan perintah git init
+1. Membuat repository dengan perintah git init
 
